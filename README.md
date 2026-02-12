@@ -165,7 +165,7 @@
             </div>
 
             <div class="center-zone">
-                <h1 class="name-heading" onclick="celebrate(event)">Sameera</h1>
+                <h1 class="name-heading" onclick="celebrate(event)">🥀 Sameera 🥀</h1>
                 <p style="color:var(--deep-red); font-weight:600; font-size: 0.8rem; letter-spacing: 2px;">BLESSED BIRTHDAY[1:23]</p>
                 <p style="color:#888; font-size: 0.7rem;">✨ Tap for a Surprise ✨</p>
             </div>
@@ -197,9 +197,9 @@
 
             <div class="full-width birthday-message">
                 <strong>Dearest Sameera,</strong><br>
-                On this beautiful day, I pray that every step you take brings you closer to Allah's love. May your heart always be full of peace, your mind full of wisdom, and your life full of health and happiness. As you celebrate another year, may the light of the Quran guide your path and the love of the Almighty fill your heart with serenity. May this year open doors of immense <em>Barakah</em> and <em>Rahmah</em>. Wishing you a year as radiant as your soul.
+                On this beautiful day🌹, I pray that every step you take brings you closer to Allah's love. May your heart always be full of peace, your mind full of wisdom, and your life full of health and happiness. As you celebrate another year, may the light of the Quran guide your path and the love of the Almighty fill your heart with serenity. May this year open doors of immense <em>Barakah</em> and <em>Rahmah</em>. Wishing you a year as radiant as your soul.
                 <br><br>
-                <strong>Happy Birthday!</strong>
+                <strong>Happy Birthday!💐💐💐</strong>
             </div>
         </div>
     </div>
