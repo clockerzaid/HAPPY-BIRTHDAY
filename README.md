@@ -165,7 +165,7 @@
             </div>
 
             <div class="center-zone">
-                <h1 class="name-heading" onclick="celebrate(event)">🥀 Sameera 🥀</h1>
+                <h1 class="name-heading" onclick="celebrate(event)">🌹 Sameera 🌹</h1>
                 <p style="color:var(--deep-red); font-weight:600; font-size: 0.8rem; letter-spacing: 2px;">BLESSED BIRTHDAY[1:23]</p>
                 <p style="color:#888; font-size: 0.7rem;">✨ Tap for a Surprise ✨</p>
             </div>
